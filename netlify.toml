@@ -1,5 +1,5 @@
 [build]
-base = "content"
+base = ""
 publish = "content"
 command = "zola build"
 
