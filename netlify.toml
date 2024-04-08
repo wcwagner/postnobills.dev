@@ -1,6 +1,5 @@
 [build]
-base = ""
-publish = "content"
+publish = "public"
 command = "zola build"
 
 [build.environment]
