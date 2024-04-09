@@ -21,7 +21,7 @@ highlight_code = true
 [extra]
 logo_text = "Post no bill(s)"
 background_color = "light"
-accent_color = "green-auto"
+accent_color = "green-light"
 copyright_html = "© 2024 William Wagner :: CC BY-SA<br><br>§ 397-a. It is illegal for any person to place any unsolicited advertisement with a posted sign 'post no bills'"
 favicon = "/favicon.png"
 favicon_mimetype = "image/png"
