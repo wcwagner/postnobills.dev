@@ -36,6 +36,5 @@ menu_items = [
     { name = "tags", url = "$BASE_URL/tags" },
     { name = "about me", url = "$BASE_URL/about" },
 
-    # set newtab to true to make the link open in new tab
-    { name = "github", url = "https://github.com/wcwagner", newtab = true },
+
 ]
