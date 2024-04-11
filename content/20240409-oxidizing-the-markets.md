@@ -5,7 +5,7 @@ date = 2024-04-09
 tags = ["finance", "rust", "personal"]
 +++
 
-For years, I've been fascinated by software designed for financial markets. In my pursuit of knowledge, I've spent countless hours searching for insightful posts on [lobste.rs](https://lobste.rs/) and [HN](https://hckrnews.com/). I often found myself writing "posts" hidden away in my [Obsidian](https://obsidian.md/) vault to better understand what I read.[^1] These posts were useful not only for their content but also for the places they _led_ me to, such as [Matklad](https://matklad.github.io/2021/05/31/how-to-test.html#Links) referencing [tedinski](https://www.tedinski.com/2019/03/19/testing-at-the-boundaries.html). Over time, it felt increasingly important to _try_ and give back to the [small web](https://blog.kagi.com/small-web) of blogs that helped me so much.
+For years, I've been fascinated by software designed for financial markets. In my pursuit of knowledge, I've spent countless hours searching for insightful posts on [lobste.rs](https://lobste.rs/) and [HN](https://hckrnews.com/).[^1] I often found myself writing "posts" hidden away in my [Obsidian](https://obsidian.md/) vault to better understand what I read.[^2] These posts were useful not only for their content but also for the places they _led_ me to, such as [Matklad](https://matklad.github.io/2021/05/31/how-to-test.html#Links) referencing [tedinski](https://www.tedinski.com/2019/03/19/testing-at-the-boundaries.html). Over time, it felt increasingly important to _try_ and give back to the [small web](https://blog.kagi.com/small-web) of blogs that helped me so much.
 
 To reciprocate, I have a two-part plan: first, to promote (i.e., [backlink](https://en.wikipedia.org/wiki/Backlink)) the authors and posts that have helped me; second, to create my own content that can help others. The latter is more focused, as my value is largely determined by my knowledge and experience. Two realities have emerged from my journey:
 
@@ -16,4 +16,7 @@ I like Rust. I like finance. This post's title, **Oxidising the Markets**, refle
 
 I plan to start by implementing a [FIX](https://www.fixtrading.org/online-specification/) (Financial Information eXchange) server, omnipresent in the industry, from basic foundations. I'll explain various _business_ concepts like [symbology](https://www.openfigi.com/about/symbology), [market structure](https://www.sifma.org/explore-issues/equity-market-structure/), [asset classes](https://en.wikipedia.org/wiki/ISO_10962), and [ECNs](https://en.wikipedia.org/wiki/Electronic_communication_network). These will provide real-world context for exploring technical approaches like [parser combinators](https://en.wikipedia.org/wiki/Parser_combinator), [incremental computation](https://en.wikipedia.org/wiki/Incremental_computing), [domain types](https://mmapped.blog/posts/25-domain-types.html#domain-type-classes), and [back-pressure](https://en.wikipedia.org/wiki/Back_pressure).
 
-[^1]: "What I cannot create, I do not understand." - [Richard Feynman](https://www.goodreads.com/quotes/8414-what-i-cannot-create-i-do-not-understand)
+# References
+
+[^1] : People with ADHD have been [linked](https://newatlas.com/science/adhd-evolutionary-benefits-foraging-explore-exploit/) to evolutionary success in foraging, so perhaps I just forage for posts in lieu of berries.<br></br>
+[^2]: "What I cannot create, I do not understand." - [Richard Feynman](https://www.goodreads.com/quotes/8414-what-i-cannot-create-i-do-not-understand)
